@@ -1,1 +1,2 @@
-This repository contains all the prototypes, presentation and report that we made in order to create a smart public transportation system. 
+#Smart-Transportation-APP
+This repository contains development of a smart public transportation management system application ,comprehensive research, resulting in a detailed report outlining key findings and proposed solutions. It also orchestrates the creation of design diagrams to illustrate system architecture and user interactions and the development of the application prototype using Figma software.
